@@ -1,0 +1,9 @@
+{{ .Content }}
+
+<img src="{{ .Params.pic1 }}">
+
+<img src="{{ .Params.pic2 }}">
+
+{{ range where .Site.Pages "Type" "=" "content1"}}
+{{ .Content }}
+{{ end }}
