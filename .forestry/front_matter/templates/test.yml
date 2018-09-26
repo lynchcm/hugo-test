@@ -27,5 +27,4 @@ fields:
   label: Text Area 1
   name: textarea1
 pages:
-- content/FolderOne/Test4.md
 - content/Test2.md
