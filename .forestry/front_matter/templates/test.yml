@@ -26,3 +26,5 @@ fields:
 - type: textarea
   label: Text Area 1
   name: textarea1
+pages:
+- content/Test2.md
